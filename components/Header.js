@@ -15,6 +15,7 @@ function Header() {
   return (
     <header className="flex flex-col sm:flex-row m-5 justify-between items-center h-auto">
       <Image
+        alt="image"
         src="https://links.papareact.com/ua6"
         width={200}
         height={100}

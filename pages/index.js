@@ -9,7 +9,7 @@ export default function Home({results}) {
   return (
     <div>
       <Head>
-        <title>LeRoi's Hulu</title>
+        <title>LeRois Hulu</title>
         <meta name="description" content="a clone of hulu by LeRoi" />
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
